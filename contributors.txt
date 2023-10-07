@@ -1,4 +1,15 @@
-﻿# - DEVELOPERS - #
+﻿# - Original Authors - #
+Marwin W., ( Original Author )
+Germany, ( Original Author )
+Lower Saxony, ( Original Author )
+Otterndorf ( Original Author )
+
+# - More Code Authors - #
+Jesseunit, ( Shader creator )
+Ren712, ( Shader creator )
+AngerMAN, ( Shader creator )
+
+# - DEVELOPERS - #
 L		(mtadayz-dev)
 .:CiBeR:.	(CiBeR96)
 Jack Johnson	(1B0Y)

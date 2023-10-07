@@ -1,14 +1,3 @@
---[[
-#-----------------------------------------------------------------------------#
-----*					MTA DayZ: actions_vehicles.lua					*----
-----* Original Author: Marwin W., Germany, Lower Saxony, Otterndorf		*----
-
-----* This gamemode is being developed by L, CiBeR96, 1B0Y				*----
-----* Type: SERVER														*----
-#-----------------------------------------------------------------------------#
-]]
-
-
 function onPlayerEnterDayzVehicle(veh,seat)
 	local col = getElementData(veh,"parent")
 	local id = getElementModel(veh)

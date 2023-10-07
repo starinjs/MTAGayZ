@@ -1,12 +1,3 @@
---[[
-#-----------------------------------------------------------------------------#
-----*					MTA DayZ: login_init.lua						*----
-----* Original Author: Marwin W., Germany, Lower Saxony, Otterndorf		*----
-
-----* This gamemode is being developed by L, CiBeR96, 1B0Y				*----
-----* Type: SERVER														*----
-#-----------------------------------------------------------------------------#
-]]
 something = {} -- Secret thing
 local sDataNames = { --Add your elementdata's here for them to be saved.
 	["brokenbone"] = {false},

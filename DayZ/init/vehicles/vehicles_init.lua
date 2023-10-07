@@ -1,15 +1,3 @@
---[[
-#-----------------------------------------------------------------------------#
-----*					MTA DayZ: vehicles_init.lua						*----
-----* Original Author: Marwin W., Germany, Lower Saxony, Otterndorf		*----
-
-----* This gamemode is being developed by L, CiBeR96, 1B0Y				*----
-----* Type: SERVER														*----
-#-----------------------------------------------------------------------------#
-]]
-
-
-
 -- Vehicles
 ATV_Spawns = gameplayVariables["atvspawns"]
 Bus_Spawns = gameplayVariables["busspawns"]

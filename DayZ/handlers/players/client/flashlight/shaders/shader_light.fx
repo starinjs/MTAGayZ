@@ -1,6 +1,3 @@
-// shader_light.fx
-// Author: Ren712/AngerMAN
-
 //-- Declare the texture
 texture sCubeTexture;
 

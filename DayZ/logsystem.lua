@@ -1,11 +1,3 @@
---[[
-	Author: CiBeR
-	Version: 0.3
-	Copyright: DayZ Gamemode. All rights reserved to Developers
-	Current Devs: Lawliet, CiBeR, Jboy
-	
-]]--
-
 local logTypes = { "admin", "debug", "updates", "accounts", "game", "chat" }
 
 function isCorrectLogType(logtype)

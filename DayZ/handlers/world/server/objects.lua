@@ -1,13 +1,3 @@
---[[
-#-----------------------------------------------------------------------------#
-----*					MTA DayZ: items.lua								*----
-----* Original Author: Marwin W., Germany, Lower Saxony, Otterndorf		*----
-
-----* This gamemode is being developed by L, CiBeR96, 1B0Y				*----
-----* Type: SERVER														*----
-#-----------------------------------------------------------------------------#
-]]
-
 function checkFenceOwner(element,ownerData)
 	if getElementType(element) == "player" and element == client then
 		local acc = getAccountName(getPlayerAccount(element))

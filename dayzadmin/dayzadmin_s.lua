@@ -1,12 +1,3 @@
---[[
-/**
-	Name: DayZ Admin Panel
-	Author: L
-	Version: 1.0.0
-	Description: Comprehensive administration tool for MTA DayZ
-*/
-]]
-
 function getVehicleInfos(id)
 	for i,veh in ipairs(vehicleInfo) do
 		if veh[1] == id then

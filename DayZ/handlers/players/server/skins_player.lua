@@ -1,13 +1,3 @@
---[[
-#-----------------------------------------------------------------------------#
-----*					MTA DayZ: skins_player.lua						*----
-----* Original Author: PicardRemi                               		*----
-
-----* This gamemode is being developed by L, CiBeR96, 1B0Y, PicardRemi	*----
-----* Type: SERVER														*----
-#-----------------------------------------------------------------------------#
-]]
-
 function checkClothes()
 	local skin1 = getElementData(source, "Military collar")
 	if skin1 >= 1 then

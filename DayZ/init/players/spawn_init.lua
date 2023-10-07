@@ -1,13 +1,3 @@
---[[
-#-----------------------------------------------------------------------------#
-----*					MTA DayZ: spawn_init.lua						*----
-----* Original Author: Marwin W., Germany, Lower Saxony, Otterndorf		*----
-
-----* This gamemode is being developed by L, CiBeR96, 1B0Y				*----
-----* Type: SERVER														*----
-#-----------------------------------------------------------------------------#
-]]
-
 spawnX,spawnY,spawnZ = 0,0,0
 spawnSelected = false
 function onSpawnSelectionEnabled(x,y,z)

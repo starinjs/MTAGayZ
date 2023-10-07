@@ -1,14 +1,3 @@
---[[
-#-----------------------------------------------------------------------------#
-----*					MTA DayZ: version.lua						    *----
-----* Original Author: Marwin W., Germany, Lower Saxony, Otterndorf		*----
-
-----* This gamemode is being developed by L, CiBeR96, 1B0Y				*----
-----* Type: SERVER														*----
-#-----------------------------------------------------------------------------#
-]]
-
-
 local timer
 local checkType = "stable" -- stable = Only check for stable versions; beta = check for most recent version (including unstables)
 version = ""

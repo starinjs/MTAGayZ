@@ -1,13 +1,3 @@
---[[
-#-----------------------------------------------------------------------------#
-----*					MTA DayZ: achievements.lua						*----
-----* Original Author: Marwin W., Germany, Lower Saxony, Otterndorf		*----
-
-----* This gamemode is being developed by L, CiBeR96, 1B0Y				*----
-----* Type: CLIENT														*----
-#-----------------------------------------------------------------------------#
-]]
-
 function panel(state)
 	if not JournalTable.image[1] then
 		JournalTable.image[11] = guiCreateStaticImage(0.00, -0.15, 0.31, 0.14, "gui/achievements/icons/bg_achievements.png", true)

@@ -1,13 +1,3 @@
---[[
-#-----------------------------------------------------------------------------#
-----*					MTA DayZ: consume_player.lua					*----
-----* Original Author: Marwin W., Germany, Lower Saxony, Otterndorf		*----
-
-----* This gamemode is being developed by L, CiBeR96, 1B0Y				*----
-----* Type: SERVER														*----
-#-----------------------------------------------------------------------------#
-]]
-
 function addPlayerStats (player,data,value)
 	-- Fix for nil values on value,data,player variables
 	if not value or not player or not data then 

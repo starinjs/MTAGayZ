@@ -1,14 +1,3 @@
---[[
-#-----------------------------------------------------------------------------#
-----*					MTA DayZ: status_player.lua						*----
-----* Original Author: Marwin W., Germany, Lower Saxony, Otterndorf and	*----
-----* 							PicardRemi                              *----
-
-----* This gamemode is being developed by L, CiBeR96, 1B0Y				*----
-----* Type: SERVER														*----
-#-----------------------------------------------------------------------------#
-]]
-
 function sendPlayerStatusInfoToClient()
 	for i, player in ipairs(getElementsByType("player")) do
 		if getElementData(player,"logedin") then

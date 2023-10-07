@@ -1,13 +1,3 @@
---[[
-#-----------------------------------------------------------------------------#
-----*					MTA DayZ: hud_gear.lua							*----
-----* Original Author: Marwin W., Germany, Lower Saxony, Otterndorf		*----
-
-----* This gamemode is being developed by L, CiBeR96, 1B0Y				*----
-----* Type: CLIENT														*----
-#-----------------------------------------------------------------------------#
-]]
-
 local sx, sy = guiGetScreenSize()
 local alpha = 255
 local font = {}

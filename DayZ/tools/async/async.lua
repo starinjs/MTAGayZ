@@ -1,9 +1,3 @@
---- GTA:MTA Lua async thread scheduler.
--- @author Inlife
--- @license MIT
--- @url https://github.com/Inlife/mta-lua-async
--- @dependency slither.lua https://bitbucket.org/bartbes/slither
-
 class "Async" {
     
     -- Constructor mehtod

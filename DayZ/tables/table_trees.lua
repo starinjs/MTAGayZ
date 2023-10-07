@@ -1,13 +1,3 @@
---[[
-#-----------------------------------------------------------------------------#
-----*					MTA DayZ: treelist.lua							*----
-----* Original Author: Marwin W., Germany, Lower Saxony, Otterndorf		*----
-
-----* This gamemode is being developed by L, CiBeR96, 1B0Y				*----
-----* Type: CLIENT														*----
-#-----------------------------------------------------------------------------#
-]]
-
 treelist = {
 	[712] = { name = "Tree"},
 	[621] = { name = "Tree"},

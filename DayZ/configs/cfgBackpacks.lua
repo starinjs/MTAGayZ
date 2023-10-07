@@ -1,14 +1,3 @@
---[[
-#-----------------------------------------------------------------------------#
-----*					MTA DayZ: cfgBackpacks.lua						*----
-----* Original Author: Marwin W., Germany, Lower Saxony, Otterndorf		*----
-
-----* This gamemode is being developed by L, CiBeR96, 1B0Y				*----
-----* Type: SHARED														*----
-#-----------------------------------------------------------------------------#
-]]
-
-
 -- BACKPACK SETTINGS | Use common sense when changing the weapon slots! Nobody likes backpacks with 3 item slots and 500 weapon slots.
 gameplayVariables["assaultpack_slots"] = 15 -- Slots for Assault Pack (ACU) - DEFAULT: 15
 gameplayVariables["assaultpack_gunslots"] = 1 -- Weapon slots for Assault Pack (ACU) - DEFAULT: 1

@@ -1,13 +1,3 @@
---[[
-#-----------------------------------------------------------------------------#
-----*					MTA DayZ: ui_gear.lua							*----
-----* Original Author: Marwin W., Germany, Lower Saxony, Otterndorf		*----
-
-----* This gamemode is being developed by L, CiBeR96, 1B0Y				*----
-----* Type: CLIENT														*----
-#-----------------------------------------------------------------------------#
-]]
-
 local screenWidth,screenHeight = guiGetScreenSize()
 local button = dxCreateTexture ( ":DayZ/gui/gear/inventory/butoff.png" )
 local button2 = dxCreateTexture ( ":DayZ/gui/gear/inventory/butclick.png" )

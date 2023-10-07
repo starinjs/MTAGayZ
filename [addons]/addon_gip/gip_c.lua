@@ -1,13 +1,3 @@
---[[
-/**
-	@ name: Give-an-Item Panel (GIP)
-	@ author: Renkon
-	@ version: 1.0
-	@ type: DayZ Addon
-	@ description: Panel which lets you give items to any player connected to your server.
-*/
-]]
-
 addEvent("onGIPOpened", true)
 
 local sW, sH = guiGetScreenSize() -- // Variables needed to know the width and height.

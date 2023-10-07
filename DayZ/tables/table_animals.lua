@@ -1,13 +1,3 @@
---[[
-#-----------------------------------------------------------------------------#
-----*					MTA DayZ: animals_table.lua						*----
-----* Original Author: Marwin W., Germany, Lower Saxony, Otterndorf		*----
-
-----* This gamemode is being developed by L, CiBeR96, 1B0Y				*----
-----* Type: SHARED														*----
-#-----------------------------------------------------------------------------#
-]]
-
 animalSkins = {12,13,14,15,16}
 
 animalsSpawnTable = {

@@ -1,12 +1,3 @@
-<!--
-#-----------------------------------------------------------------------------#
-----*					MTA DayZ: meta.xml								*----
-----* Original Author: Marwin W., Germany, Lower Saxony, Otterndorf		*----
-
-----* This gamemode is being developed by L, CiBeR96, 1B0Y				*----
-----* 																	*----
-#-----------------------------------------------------------------------------#
--->
 <meta>
     <info author="L, CiBeR, 1B0Y, Neves (Original: Marwin)" description="MTA:DayZ - DayZ for MTA" version="0.9.8.1a" type="gamemode" />
 	<min_mta_version server="1.4.1" client="1.4.1" />

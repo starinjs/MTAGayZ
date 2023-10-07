@@ -1,13 +1,3 @@
---[[
-#-----------------------------------------------------------------------------#
-----*					MTA DayZ: sounds.lua							*----
-----* Original Author: Marwin W., Germany, Lower Saxony, Otterndorf		*----
-
-----* This gamemode is being developed by L, CiBeR96, 1B0Y				*----
-----* Type: CLIENT														*----
-#-----------------------------------------------------------------------------#
-]]
-
 local citysounds = {":DayZ/sounds/ambience/helicopter.mp3"}
 local ambiencesounds = {
 	":DayZ/sounds/ambience/ambience_1.ogg",

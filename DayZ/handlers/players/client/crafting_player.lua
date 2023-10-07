@@ -1,14 +1,4 @@
 --[[
-#-----------------------------------------------------------------------------#
-----*					MTA DayZ: crafting_player.lua					*----
-----* Original Author: Marwin W., Germany, Lower Saxony, Otterndorf		*----
-
-----* This gamemode is being developed by L, CiBeR96, 1B0Y				*----
-----* Type: CLIENT														*----
-#-----------------------------------------------------------------------------#
-]]
-
---[[
 Stuff to do:
 - Player must not move while crafting, or else crafting will cancel (Animation?)
 - Are the requirements too high/too low? Needs extensive testing!

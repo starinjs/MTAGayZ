@@ -1,13 +1,3 @@
---[[
-
-	Author: CiBeR
-	Version: 0.2
-	Copyright: DayZ Gamemode. All rights reserved to Developers
-	Current Devs: Lawliet, CiBeR, Jboy
-
-	
-]]--
-
 -- [[ Exported functions ]] --
 --[[ 
 getPlayerBlood - Arguments: element player. Returns: Amount of blood the player has (int)

@@ -1,21 +1,3 @@
---[[
-#-----------------------------------------------------------------------------#
-----*					MTA DayZ: DayZ_c.lua								*----
-----* Original Author: Marwin W., Germany, Lower Saxony, Otterndorf		*----
-
-----* This gamemode is being developed by L, CiBeR96, 1B0Y				*----
-----* Type: CLIENT														*----
-#-----------------------------------------------------------------------------#
-]]
-
-
---[[
-TO DO
-
-
-
-]]
-
 playerSkillsTable = {}
 
 Skills = {

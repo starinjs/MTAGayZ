@@ -1,13 +1,3 @@
---[[
-#-----------------------------------------------------------------------------#
-----*					MTA DayZ: battldayz_client.lua					*----
-----* Original Author: CiBeR96											*----
-
-----* This gamemode is being developed by L, CiBeR96, 1B0Y				*----
-----* Type: CLIENT														*----
-#-----------------------------------------------------------------------------#
-]]
-
 local screenW, screenH = guiGetScreenSize()
 local clientLosingConnection = false
 function onPlayerIsLosingConnection(isLosingConnection)

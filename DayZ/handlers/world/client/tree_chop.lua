@@ -1,12 +1,3 @@
---[[
-#-----------------------------------------------------------------------------#
-----*					MTA DayZ: tree_chop.lua							*----
-----* Original Author: Marwin W., Germany, Lower Saxony, Otterndorf		*----
-
-----* This gamemode is being developed by L, CiBeR96, 1B0Y				*----
-----* Type: CLIENT														*----
-#-----------------------------------------------------------------------------#
-]]
 local numhit = 0
 local maxhit = 15 -- 15 = About 5 strokes of axe
 local length = 3

@@ -1,12 +1,3 @@
---[[
-
-	Author: CiBeR
-	Version: 0.1
-	Copyright: DayZ Gamemode. All rights reserved to Developers
-	Info: MTA:DayZ Base Creation Addon
-	Current Devs: Lawliet, CiBeR, Jboy, Remi, Renkon
-	
-]]--
 baseCPanel = {
     edit = {},
     button = {},

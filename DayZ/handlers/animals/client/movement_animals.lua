@@ -1,13 +1,3 @@
---[[
-#-----------------------------------------------------------------------------#
-----*					MTA DayZ: movement_animal.lua					*----
-----* Original Author: Marwin W., Germany, Lower Saxony, Otterndorf		*----
-
-----* This gamemode is being developed by L, CiBeR96, 1B0Y				*----
-----* Type: CLIENT														*----
-#-----------------------------------------------------------------------------#
-]]
-
 function makeAnimalsMove()
 	for i,ped in ipairs(getElementsByType("ped")) do
 		if getElementData(ped,"animal") and not getElementData(ped,"deadman") then

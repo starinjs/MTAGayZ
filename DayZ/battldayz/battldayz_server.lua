@@ -1,14 +1,3 @@
---[[
-#-----------------------------------------------------------------------------#
-----*					MTA DayZ: battldayz_server.lua					*----
-----* Original Author: CiBeR96											*----
-
-----* 				This gamemode is being developed by 				*----
-----*				L, CiBeR96, 1B0Y, Remi & Renkon						*----
-----* Type: SERVER														*----
-#-----------------------------------------------------------------------------#
-]]
-
 -- Settings
 maxHealth = gameplayVariables["maxblood"]
 maxFood = gameplayVariables["maxfood"]

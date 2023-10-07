@@ -1,14 +1,3 @@
---[[
-/**
-	Name: DayZ Admin Panel
-	Author: L
-	Version: 1.0.0
-	Description: Comprehensive administration tool for MTA DayZ
-*/
-]]
-
-
-
 -- The DayZ Admin Panel GUI Table
 adminpanel = {
     tab = {},

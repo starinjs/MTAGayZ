@@ -1,13 +1,3 @@
---[[
-#-----------------------------------------------------------------------------#
-----*					MTA DayZ: cfgDifficulty.lua						*----
-----* Original Author: Marwin W., Germany, Lower Saxony, Otterndorf		*----
-
-----* This gamemode is being developed by L, CiBeR96, 1B0Y, Rémi		*----
-----* Type: SHARED														*----
-#-----------------------------------------------------------------------------#
-]]
-
 gameplayVariables["difficulty"] = "normal" -- // Possible values: "normal", "veteran", "hardcore" - See below for description
 
 outputDebugString("[DayZ] cfgDifficulty loaded (Difficulty: "..tostring(gameplayVariables["difficulty"])..")")

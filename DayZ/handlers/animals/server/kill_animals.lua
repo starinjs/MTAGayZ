@@ -1,13 +1,3 @@
---[[
-#-----------------------------------------------------------------------------#
-----*					MTA DayZ: kill_animals.lua						*----
-----* Original Author: Marwin W., Germany, Lower Saxony, Otterndorf		*----
-
-----* This gamemode is being developed by L, CiBeR96, 1B0Y				*----
-----*																	*----
-#-----------------------------------------------------------------------------#
-]]
-
 function destroyDeadAnimal (ped,pedCol,x,y,z)
 	local ped = createPed(skin,x,y,z)
 	local pedCol = createColSphere(x,y,z,1.5)

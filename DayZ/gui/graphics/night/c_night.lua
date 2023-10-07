@@ -1,14 +1,3 @@
---[[
-************************************
-* MTA REALISTIC NIGHT SHADER
-************************************
-*
-* @author		Jesseunit
-* @link			http://jsiau.site11.com
-* @info			An uncompiled script, hooray.
-* @version		1.0
-]]--
-
 local maxDarkness = 0.11 -- [1] = lightest || [0] = darkest
 local speed = 0.003 -- 0.001
 

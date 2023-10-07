@@ -1,11 +1,3 @@
---[[
-/**
-	Name: DayZ Admin Panel
-	Author: L
-	Version: 1.0.0
-	Description: Comprehensive administration tool for MTA DayZ
-*/
-]]
 function onAdminPanelOpen()
 	for i = 1, 6 do
 		guiGridListClear(adminpanel.gridlist[i])

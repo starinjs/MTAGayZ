@@ -1,13 +1,3 @@
---[[
-#-----------------------------------------------------------------------------#
-----*					MTA DayZ: cfgServer.lua							*----
-----* Original Author: Marwin W., Germany, Lower Saxony, Otterndorf		*----
-
-----* This gamemode is being developed by L, CiBeR96, 1B0Y				*----
-----* Type: SERVER														*----
-#-----------------------------------------------------------------------------#
-]]
-
 shownInfos["nomag"] = "No ammo left for this weapon!"
 shownInfos["youconsumed"] = "You consumed"
 shownInfos["needwatersource"] = "You have to be inside a body of water!"
